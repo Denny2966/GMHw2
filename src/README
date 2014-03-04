@@ -1,0 +1,4 @@
+1. The code is written by python (v 2.75) in Mac Maverick.
+2. Except potential.py which I use as utilities, other files are all problem targeted, which you can run through command line directly (they are executable files). Specifically, which problem a file targets is clearly shown by its name.
+3. You should put 'data' folder and 'model' folder at the same directory with 'src'
+4. If you have meet any problems, please contact with me: dennywu@cs.umass.edu
